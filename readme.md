@@ -30,8 +30,8 @@
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="40px"> Domain</h2>
 
 <p float="middle" align="center">
-    <img src="https://raw.githubusercontent.com/blurred-machine/blurred-machine/master/animation.gif" width=300 height=175>
-    <img src="https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif" width=300 height=175>
+    <img src="https://raw.githubusercontent.com/blurred-machine/blurred-machine/master/animation.gif" width=400 height=200>
+    <img src="https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif" width=400 height=200>
 </p>
 <div align="center">
 <table> 

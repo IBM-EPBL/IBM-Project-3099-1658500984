@@ -11,7 +11,7 @@
   <li>Kamalahasan A (Team Lead)</li>
   <li>Shihaf Ahil M (Team Member 1)</li>
   <li>Sugumar S (Team Member 2)</li>
-  <li>Varatharaj Manikandan S(Team Member 3)</li>
+  <li>Varatharaj Manikandan S (Team Member 3)</li>
   </i>
   </ul>
 <br>

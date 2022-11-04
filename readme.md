@@ -8,10 +8,10 @@
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="40px"> Team Members: </h2> 
 <ul><i>
-  <li>Kamalahasan A (Team Lead)</li>
-  <li>Shihaf Ahil M (Team Member 1)</li>
-  <li>Sugumar S (Team Member 2)</li>
-  <li>Varatharaj Manikandan S (Team Member 3)</li>
+  <li><strong>Kamalahasan A (Team Lead)</strong></li>
+  <li><strong>Shihaf Ahil M (Team Member 1)</strong></li>
+  <li><strong>Sugumar S (Team Member 2)</strong></li>
+  <li><strong>Varatharaj Manikandan S (Team Member 3)</strong></li>
   </i>
   </ul>
 <br>

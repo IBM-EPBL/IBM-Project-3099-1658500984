@@ -1,7 +1,7 @@
 <br>
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg"  align="center" alt="drawing" width="200" />
-  <h2 align="center">Handwritten Digit Recognition System<br></h2><h3>Government College of Technology, Coimbatore.<br></h3><br><h3>
+  <h2 align="center">Handwritten Digit Recognition System<br></h2><h3>Government College of Technology, Coimbatore.<br></h3><h3>
 IBM-Project-3099-1658500984</h3><h3>Team ID:PNT2022TMID07022</h3><img src="https://upload.wikimedia.org/wikipedia/commons/2/27/MnistExamples.png">
 </div>
  <br> 

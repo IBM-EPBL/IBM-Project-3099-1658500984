@@ -46,22 +46,11 @@ IBM-Project-3099-1658500984</h3><h3>Team ID:PNT2022TMID07022</h3><img src="https
   
   <!-- tasks -->
   <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Mechanical%20Arm.png" width="40px"> Tasks: </h2>
-- [x] Project Objective <br>
-- [x] Project Flow <br>
-- [x] Project Structure <br>
-- [x] Prerequisites <br>
-- [x] Prior Knowledge <br>
-- [x] Understanding The Data <br>
-- [x] Model Building <br>
-- [x] Application Building <br>
+
 - [x] Brainstorm and Ideation <br>
 - [x] Problem Statement <br>
 - [x] Empathy Map <br>
 - [x] Assignment 1 <br>
 - [x] Assignment 2  <br>
 - [x] Assignment 3  <br>  
-- [x] Assignment 4  <br>
-- [x] Project Design Phase – I <br>
-- [x] Project Design Phase – II <br>
-- [x] Project Planning Phase <br>
-- [x] Project Development Phase (Sprint 1) <br>
+- [x] Assignment 4  <br>  

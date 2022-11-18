@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>A Novel Method For Handwritten Digit Recognition System</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/static/style.css">
+
+</head>
+<body>
+<main>
+	<div class="container">
+		<h1>A Novel Method For Handwritten Digit Recognition System</h1>
+		<h2>Team ID : PNT2022TMID07022</h2>
+		<div class="search-box">
+			<div class="draw-title">
+				Draw<br>a digit:
+			</div>
+			<div class="canvas-div">
+				<canvas id="canvas" width="112px" height="112px"></canvas>
+			</div>
+			<div class="buttons">
+				<button class="button" id="predictButton">Predict</button>
+				<button class="button" id="clearButton">Clear</button>
+			</div>
+			<div class="prediction-container">
+				<h3 class="prediction-heading">Prediction:</h3>
+				<div class="prediction-label">
+					<div class="prediction" id="prediction">?</div>
+          <div class="confidence" id="confidence"></div>
+				</div>
+			</div>
+		</div> 
+	</div>
+</main>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/1.7.1/jquery.min.js'></script>
+<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+<script  src="/static/script.js"></script>
+
+</body>
+</html>

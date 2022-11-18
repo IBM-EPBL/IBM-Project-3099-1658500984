@@ -30,8 +30,6 @@ main {
   position: absolute;
   top: 0;
   left: 0;
-  /*margin: 0 auto;*/
-  /*padding: 0 26px;*/
   width: 100%;
   height: 100%;
   background: rgba(154,57,163,1);
@@ -41,7 +39,6 @@ main {
   background: -o-linear-gradient(-45deg, rgba(154,57,163,1) 0%, rgba(65,103,168,1) 100%);
   background: -ms-linear-gradient(-45deg, rgba(154,57,163,1) 0%, rgba(65,103,168,1) 100%);
   background: linear-gradient(135deg, rgba(154,57,163,1) 0%, rgba(65,103,168,1) 100%);
-  /*filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#9a39a3', endColorstr='#4167a8', GradientType=1 );*/
 }
 h1 {
   display: block;

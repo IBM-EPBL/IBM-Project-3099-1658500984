@@ -65,4 +65,4 @@ IBM-Project-3099-1658500984</h3><h3>Team ID:PNT2022TMID07022</h3><img src="https
 - [x] Project Design Phase – I <br>
 - [x] Project Design Phase – II <br>
 - [x] Project Planning Phase <br>
-- [x] Project Development Phase (Sprint 1) <br>    
+- [x] Project Development Phase <br> 
